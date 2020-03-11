@@ -2,18 +2,18 @@
 
 ## Register
 
-- [ ] [Github](https://github.com/)
-- [ ] [Figma](https://www.figma.com)
+- [X] [Github](https://github.com/)
+- [X] [Figma](https://www.figma.com)
 - [ ] [Codewars](https://www.codewars.com/)
 
 ## Sandbox
 
-- [ ] [CodePen](https://codepen.io/)
+- [X] [CodePen](https://codepen.io/)
 - [ ] [CodeSandbox](https://codesandbox.io/)
 
 ## Editor
 
-- [ ] [Visual Studio Code](https://code.visualstudio.com/)
+- [X] [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Install
 
@@ -27,4 +27,4 @@
 
 ## Setup git
 
-- [ ] [Setup](https://githowto.com/uk/setup)
+- [X] [Setup](https://githowto.com/uk/setup)
