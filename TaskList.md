@@ -9,7 +9,7 @@
 ## Sandbox
 
 - [X] [CodePen](https://codepen.io/)
-- [ ] [CodeSandbox](https://codesandbox.io/)
+- [X] [CodeSandbox](https://codesandbox.io/)
 
 ## Editor
 
@@ -18,7 +18,7 @@
 ## Install
 
 - [ ] [NodeJS](https://nodejs.org/uk/)
-- [ ] [Git](https://git-scm.com/downloads)
+- [X] [Git](https://git-scm.com/downloads)
 
 ## Start learning git
 
@@ -28,3 +28,4 @@
 ## Setup git
 
 - [X] [Setup](https://githowto.com/uk/setup)
+
