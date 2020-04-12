@@ -9,6 +9,7 @@
     <style>
         .block {
             margin-bottom: 10px;
+            
         }
 
         .block > div {
@@ -16,23 +17,21 @@
             border: 1px solid #FFF;
             height: 150px;
             color: #FFF;
-            display: block;
+            display: flex;
             width: 100%;
+            
+            align-content: center;
+            justify-content: center;
+            
+            
         }
 
-        .inside {
-            position: relative;
-            height: 100%;
-            overflow: hidden;
-        }
+        
 
-        .text {
-            position: absolute;
-            transform: translate(-50%, -50%);
-            left: 50%;
-            top: 50%;
-            z-index: 1;
-        }
+            
+        
+       
+        
     </style>
     <link rel="stylesheet" href="desctopFirst.css">
 </head>
@@ -80,7 +79,7 @@
     <div class="third block">
         <div class="colored">
             <div class="inside">
-                <div class="text">1</div>
+                <div class="text" class="third1">1</div>
             </div>
         </div>
         <div class="colored">
