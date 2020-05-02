@@ -38,6 +38,24 @@ function getLeader( grade ) {
 
     return leaderName;
 }
+// второе задание
+
+
+function getLeaderScore( grade ) {
+    let leaderScore = '',
+        leaderScore1 = -Infinity;
+        
+
+    for (const name in grade) {
+        if (grade[name] > leaderScore1) {
+            leaderScore =  grade[name];
+            leaderScore1 = grade[name];
+        }
+    }
+
+    return leaderScore;
+}
+
 
 function getAverageGrade( grade ) {
     let sum = 0,
@@ -94,7 +112,9 @@ function getWinners( grade ) {
 }
 
 console.log('1. Leader:', getLeader(grade));
+console.log('2. Leader Score:', getLeaderScore(grade));
 console.log('3. Average Grade:', getAverageGrade(grade));
 console.log('4. Average Gamer:', getAverageGamer(grade));
 console.log('5. Lagging Gamer:', getLagging(grade));
 console.log('6. Get winners:', getWinners(grade));
+
