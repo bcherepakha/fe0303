@@ -37,3 +37,17 @@ tr:nth-child(10) td:nth-child(2)
     background: currentColor;
     border-color: currentColor;
 }
+
+.orange
+{
+    color: orange;
+    background: currentColor;
+    border-color: currentColor;
+}
+
+[colspan="3"][rowspan="3"]
+{
+    color: red;
+    background: currentColor;
+    border-color: currentColor;
+}

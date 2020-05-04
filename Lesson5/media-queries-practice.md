@@ -36,16 +36,16 @@ Add styles to [markup](media-queries-practice.html)
 
 ## From Tablet Portrait to Tablet Landscape
 
-- [ ] 1 block -> all elements width: 50%
-- [ ] 2 block -> all elements width: 50%
-- [ ] 3 block -> 1 element in a row, full width
-- [ ] 4 block -> 1 and second: 50% and last element 100% width
-- [ ] 5 block -> 2 elements in a row, 50% width, last one is 100% width
+- [x] 1 block -> all elements width: 50%
+- [x] 2 block -> all elements width: 50%
+- [x] 3 block -> 1 element in a row, full width
+- [x] 4 block -> 1 and second: 50% and last element 100% width
+- [x] 5 block -> 2 elements in a row, 50% width, last one is 100% width
 
 ## From Mobile to Tablet Portrait
 
-- [ ] 1 block -> all elements width: 50%
-- [ ] 2 block -> all elements width: 50%
-- [ ] 3 block -> 1 element in a row, full width 100% for all
-- [ ] 4 block -> 1 element in a row, full width 100% for all
-- [ ] 5 block -> all elements in 100% width
+- [x] 1 block -> all elements width: 50%
+- [x] 2 block -> all elements width: 50%
+- [x] 3 block -> 1 element in a row, full width 100% for all
+- [x] 4 block -> 1 element in a row, full width 100% for all
+- [x] 5 block -> all elements in 100% width

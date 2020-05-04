@@ -1,0 +1,77 @@
+
+.card
+{
+    width: 400px;
+   
+    box-sizing: border-box;
+    padding: 0%;
+    position: relative;
+   
+}
+.image-container
+{
+    
+    position: relative;
+}
+.image
+{
+
+    position: relative;
+
+    
+}
+.head1
+{
+    margin-top: -470px;
+
+    position: relative;
+    height: 10%;
+    left: 100%;
+    right: 48%;
+    font-family: lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 100%;
+    line-height: 14px;
+    letter-spacing: 2px;
+   color: #9FAFC7;
+  
+
+    
+}
+h2
+{
+position: relative;
+
+height: 54px;
+left: 80%;
+top: -20px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: 900;
+font-size: 42px;
+line-height: 54px;
+
+color: #FFFFFF;
+}
+
+
+.button_now
+{
+position: relative;
+left: 110%;
+right: 46.5%;
+top: 40px;
+color: #FFFFFF;
+background: #EC6732;
+border-radius: 100px;
+height: 50px;
+width: 80 px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+border: none;
+}
